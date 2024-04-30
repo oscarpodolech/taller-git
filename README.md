@@ -4,11 +4,10 @@ Taller introductorio de Git y GitHub
 
 ## Comandos aprendidos
 
----bash
+´´´bash
 git init
 git status
 git add
 git commit
 git push
-
----
+´´´
